@@ -1,5 +1,5 @@
-# Автор: ...
-
+# Автор: Kurskiy Vladislav
+import math
 def add(a, b):
     return a + b
 
@@ -9,8 +9,10 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    # TODO: не реализовано
-    return None
+    return a * b
+
+def sqrt(a):
+    return math.sqrt(a);
 
 
 if __name__ == "__main__":
