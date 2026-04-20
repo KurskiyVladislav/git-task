@@ -14,6 +14,9 @@ def multiply(a, b):
 def sqrt(a):
     return math.sqrt(a);
 
+def div(a,b):
+    #TO DO
+    pass
 
 if __name__ == "__main__":
     print("Простой калькулятор запущен.")
